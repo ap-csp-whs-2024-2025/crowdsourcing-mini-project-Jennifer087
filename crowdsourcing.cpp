@@ -11,8 +11,36 @@
 #include <string>    // std::string, std::getline
 #include <vector>    // std::vector
 
+
 int main()
 {
-    // write your code here
+   int::totalDuration(std::vector<int> list)
+   {
+    std::vector<std::string> song_name = {};
+    std::vectr<std::string> song_artist = {}
+    std::vector<int> song_duration = {}
+
+    std:;string choice = "y";
+    while (choice != "n")
+
+    {
+        std::cout << "Bad Reviews, Sabrina Carpenter, 141 \n ";
+        std::string name;
+        std::cin >> name;
+        append(Bad Reviews, );
+
+        std::string artist;
+        sts::cin >> artist;
+        append(song_artist, artist);
+
+        int duration;
+        std::cin >> duration;
+
+
+    }
+    }
+
+
+   }
     return 0;
 }
